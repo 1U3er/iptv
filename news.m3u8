@@ -9,7 +9,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png" tvg-id="SkyNews.uk" group-title="UK",Sky News
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-name="CGTN CN" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+https://stream1.freetv.fun/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
 https://edge02.odtv.az/o8/bloomberg/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="Business",CNBC
