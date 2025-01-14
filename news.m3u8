@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1 ,CGTN
+http://198.16.64.10:8278/CGTN/playlist.m3u8?tid=MDED6717475367174753&ct=19225&tsum=096735a63d2e871c3ab4980cfea64fe4
+#EXTINF:-1 ,CGNTV
+http://198.16.64.10:8278/cgntv_korea/playlist.m3u8?tid=MABA6473602964736029&ct=19225&tsum=8564b434d07391db48f35d6545cb33b1
+#EXTINF:-1 ,CBSHD
+http://198.16.64.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1 ,CBS
+http://198.16.64.10:8278/cbs_korea/playlist.m3u8?tid=MDAD4507283145072831&ct=19225&tsum=2a813574c958e8ae1a2f5c64237e9bb9
+#EXTINF:-1 ,CBBC
+http://198.16.64.10:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
+#EXTINF:-1 ,Boomerang
+http://198.16.64.10:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
+#EXTINF:-1 ,BloombergNews
+http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+#EXTINF:-1 ,BBCWorldNews
+http://198.16.64.10:8278/bbcworldnews_antik/playlist.m3u8?tid=MC4C8251699482516994&ct=19254&tsum=af5b184190d5f3db34f572d83337e180
+#EXTINF:-1 ,BBCWorldNews
+http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+#EXTINF:-1 ,BBCEarthTamil
+http://198.16.64.10:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
+#EXTINF:-1 ,BBC2
+http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+#EXTINF:-1 ,BBC1
+http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+#EXTINF:-1 ,法国24台英语
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 ,法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 ,法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 ,加拿大 Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 ,美国CGTN (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 ,美国CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,美国-彭博财经台
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 ,美国新闻CBS News 2
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 ,美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 ,彭博财经(美)Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,FOX
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 ,FOXNews（美国）
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 ,FOX
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 ,FOXNews（美国）
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 ,HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 ,Headline News HD CA
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6483/index.m3u8
+#EXTINF:-1 ,health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 ,NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 ,NBC HD
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1081/index.m3u8
+#EXTINF:-1 ,NBC News Now | HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+#EXTINF:-1 ,NBC News Now | Source 1
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+#EXTINF:-1 ,NBC News Now | Source 2
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+#EXTINF:-1 ,NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 ,NBC WTMJ4
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 ,NBCnews(美国)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 ,NBCNewsNow
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 ,NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,CNBC HD
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/962/index.m3u8
+#EXTINF:-1 ,CNC英文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 ,CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 ,CNN International Europe
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/842/index.m3u8
+#EXTINF:-1 ,CNN
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6499/index.m3u8
+#EXTINF:-1 ,CTV News Channel HD CA
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6468/index.m3u8
+#EXTINF:-1 ,Euronews(欧洲)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,ABC News US HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 ,ABC TV (720p)
+https://c.mjh.nz/101002210221
+#EXTINF:-1 ,ABC TV (720p)
+https://c.mjh.nz/101002510251
+#EXTINF:-1 ,ABC TV (720p)
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1 ,ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 ,ABC TV Plus (720p)
+https://c.mjh.nz/abc2
+#EXTINF:-1 ,ABCNews-720P（美国）
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 ,ABCnews-720P
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ,Australia Channel (720p) (澳大利亚)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 ,BBCWorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 ,BBCWorldNews
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/545/index.m3u8
+
