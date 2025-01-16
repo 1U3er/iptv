@@ -26,13 +26,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://z02.ubtvfans.com/live/rx3/169/4d4d53008ce2068c3c1b4c23ab1299a0/index.m3u8
 
 
-#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
+#EXTINF:-1  tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
-https://stream1.freetv.fun/b4fe0a0b701f854e38f67d5911b3e3099a8cbfe5d795de8aec8f0537188923c4.m3u8
-#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
+#EXTINF:-1  tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOXNews-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
@@ -45,9 +41,6 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/255px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World-Japan
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/255px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World-Japan
-http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="NHK World-Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/255px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World-Japan
-https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
+
 
 
