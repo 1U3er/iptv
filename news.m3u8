@@ -25,6 +25,16 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 #EXTINF:-1 tvg-country="Sky news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/330px-Sky_News_2015_Logo.svg.png" group-title="News",Sky News
 https://z02.ubtvfans.com/live/rx3/169/4d4d53008ce2068c3c1b4c23ab1299a0/index.m3u8
 
+
+#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
+https://stream1.freetv.fun/b4fe0a0b701f854e38f67d5911b3e3099a8cbfe5d795de8aec8f0537188923c4.m3u8
+#EXTINF:-1  tvg-name="BBCNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/300px-CNBC_2023.svg.png" tvg-id="CNBC" group-title="news",CNBC
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FOXNews-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXNews-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
