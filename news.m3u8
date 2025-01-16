@@ -32,3 +32,12 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Taiwan Plus" tvg-logo="https://www.taiwanplus.com/assets/img/web_logo.svg?v=2" group-title="News",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK World-Japan" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo-world_rect.svg" group-title="News",NHK World-Japan
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="NHK World-Japan" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo-world_rect.svg" group-title="News",NHK World-Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHK World-Japan" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo-world_rect.svg" group-title="News",NHK World-Japan
+https://edge2.laotv.la/live/NHK/index.m3u8
+
+
