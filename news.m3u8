@@ -3,7 +3,7 @@
 
 #EXTINF:-1  tvg-id="BBCNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"  group-title="News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1  tvg-id="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"  group-title="News",BBC News HD
+#EXTINF:-1  tvg-id="BBCNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"  group-title="News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  tvg-id="BBCNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"  group-title="News",BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -22,12 +22,12 @@ https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/ey
 #EXTINF:-1 tvg-id=""Reuters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="News",Reuters
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 
-#EXTINF:-1 tvg-id="Global News" tvg-logo="https://en.wikipedia.org/wiki/Global_News#/media/File:Global_News_(2022).svg" group-title="News",Global News
+#EXTINF:-1 tvg-id="Global News" tvg-logo="https://globalnews.ca/wp-content/uploads/2018/03/new_square-e1647018225390.png" group-title="News",Global News
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://en.wikipedia.org/wiki/GB_News#/media/File:GB_News_Logo.svg" group-title="News",GB News
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://media.info/l/o/7/7421.1622063003.png" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="GB News"  tvg-logo="https://en.wikipedia.org/wiki/GB_News#/media/File:GB_News_Logo.svg" group-title="News",GB News
+#EXTINF:-1 tvg-id="GB News"  tvg-logo="https://media.info/l/o/7/7421.1622063003.png" group-title="News",GB News
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera" group-title="News",Al Jazeera
