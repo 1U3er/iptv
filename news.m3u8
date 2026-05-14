@@ -33,7 +33,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #EXTINF:-1 tvg-id="Al Jazeera" group-title="News",Al Jazeera
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="NEWSMAX"  tvg-logo="https://en.wikipedia.org/wiki/Newsmax#/media/File:Newsmax_logo.svg" group-title="News",NEWSMAX
+#EXTINF:-1 tvg-id="NEWSMAX"  tvg-logo="https://1000logos.net/wp-content/uploads/2025/11/Newsmax-Logo.jpg" group-title="News",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 
 #EXTINF:-1 tvg-id="CNNUS-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN
